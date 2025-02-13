@@ -140,6 +140,7 @@ class FlagCode {
     ['ZAF', 'ZA']: 'za',
     ['ZWE', 'ZW']: 'zw',
     ['TJK', 'TJ']: 'tj',
+    ['VUT', 'VU']: 'vu',
   };
   static const Map<String, String> _flagCodesLanguages = {
     'af': 'af',
@@ -231,6 +232,7 @@ class FlagCode {
     'vi': 'vn',
     'zh': 'cn',
     'tg': 'tj',
+    'bi': 'vu',
   };
 
   /// Get the flag code from a language code.
